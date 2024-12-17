@@ -1,0 +1,29 @@
+🚀 Overview
+This project demonstrates how you can create stunning AI-generated hybrid animals by combining two creatures into one. Using tools like ChatGPT for prompts, Flux for images and animation, and post-processing software, you can achieve professional results with minimal effort.
+
+📂 Tools & Resources:
+ChatGPT - Generate prompts for image creation.
+Flux - Create images and smooth animations.
+Topaz Video AI - Upscale videos for higher quality.
+Adobe After Effects - Add glow effects and color grading.
+
+📝 Image Prompts:
+Prompt 1 - Separate Animals:
+"Create a highly detailed and realistic image of a [first animal] and a [second animal] standing or positioned in a natural environment. The background should be minimalistic but consistent."
+
+Prompt 2 - Hybrid Creature:
+"Create a stunning hybrid creature that combines the physical features of a [first animal] and a [second animal]. Place the creature in the same environment as the previous prompt to ensure background consistency."
+
+🔧 Steps:
+Brainstorm your idea for hybrid animals.
+Use ChatGPT to generate the prompts.
+Input the prompts into Flux to generate images and animations.
+Upscale the video using Topaz AI.
+Finalize post-processing in Adobe After Effects (glow, transitions, color grading).
+🔗 Links:
+Full YouTube Tutorial: [https://youtu.be/R0AX69GU-Zs]
+Download Resources/Prompts: [https://flux-ai.io/]
+💬 Connect with me:
+
+LinkedIn: [https://www.linkedin.com/in/ai-haris/]
+Instagram: [mayyit.ai]
